@@ -35,8 +35,8 @@ Encerrar
 Solução
 O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
 
-DESAFIO SOLUCIONADO
-Complemento de código para classe Estacionamento em DESAFIO DA DIO .NET
+DESAFIO SOLUCIONADO /n
+Complemento de código para classe Estacionamento em DESAFIO DA DIO .NET 
 
  COMPLEMDENTO DE CODIGO  1
  string placaVeiculo = Console.ReadLine();
