@@ -39,7 +39,7 @@ O código está pela metade, e você deverá dar continuidade obedecendo as regr
 
 Complemento de código para classe Estacionamento em DESAFIO DA DIO .NET 
 
- COMPLEMDENTO DE CODIGO  1
+>> COMPLEMDENTO DE CODIGO  1 =========
  
  string placaVeiculo = Console.ReadLine();
  
@@ -47,7 +47,8 @@ Complemento de código para classe Estacionamento em DESAFIO DA DIO .NET
             
   Console.WriteLine("**** Placa adicionado com sucesso! ******:");
 
->> COMPLEMDENTO DE CODIGO  2
+>> COMPLEMDENTO DE CODIGO  2 ==============
+
  placa = Console.ReadLine();
 
  horas = int.Parse(Console.ReadLine());
@@ -58,7 +59,7 @@ Complemento de código para classe Estacionamento em DESAFIO DA DIO .NET
    
   veiculos.Remove(placa);
 
->> COMPLEMENTO DE CÓDIGO 3
+>> COMPLEMENTO DE CÓDIGO 3 ================
 
  foreach(string item in veiculos)
   {
