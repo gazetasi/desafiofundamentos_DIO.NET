@@ -35,30 +35,39 @@ Encerrar
 Solução
 O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
 
-DESAFIO SOLUCIONADO
+******** DESAFIO SOLUCIONADO *********
 
 Complemento de código para classe Estacionamento em DESAFIO DA DIO .NET 
 
  COMPLEMDENTO DE CODIGO  1
+ 
  string placaVeiculo = Console.ReadLine();
-            veiculos.Add(placaVeiculo);
-            Console.WriteLine("**** Placa adicionado com sucesso! ******:");
+ 
+  veiculos.Add(placaVeiculo);
+            
+  Console.WriteLine("**** Placa adicionado com sucesso! ******:");
 
 >> COMPLEMDENTO DE CODIGO  2
  placa = Console.ReadLine();
 
  horas = int.Parse(Console.ReadLine());
-                valorTotal = precoInicial + (precoPorHora * horas);
-                ...
-                veiculos.Remove(placa);
+  
+  valorTotal = precoInicial + (precoPorHora * horas);
+  
+   ...
+   
+  veiculos.Remove(placa);
 
 >> COMPLEMENTO DE CÓDIGO 3
 
  foreach(string item in veiculos)
-                {
-                    Console.WriteLine($">>> {item}");
-                }
-                Console.WriteLine(">>> FIM DA LISTA >>>>>>");
+  {
+
+   Console.WriteLine($">>> {item}");
+   
+  }
+  
+ Console.WriteLine(">>> FIM DA LISTA >>>>>>");
 
 
 
