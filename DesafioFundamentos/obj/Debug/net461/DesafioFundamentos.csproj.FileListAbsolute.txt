@@ -1,0 +1,8 @@
+C:\Users\Usuário\Documents\GAZETA SI\CURSOS DIO\trilha-net-fundamentos-desafio-main\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net461\DesafioFundamentos.csprojAssemblyReference.cache
+C:\Users\Usuário\Documents\GAZETA SI\CURSOS DIO\trilha-net-fundamentos-desafio-main\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net461\DesafioFundamentos.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Documents\GAZETA SI\CURSOS DIO\trilha-net-fundamentos-desafio-main\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net461\DesafioFundamentos.AssemblyInfoInputs.cache
+C:\Users\Usuário\Documents\GAZETA SI\CURSOS DIO\trilha-net-fundamentos-desafio-main\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net461\DesafioFundamentos.AssemblyInfo.cs
+C:\Users\Usuário\Documents\GAZETA SI\CURSOS DIO\trilha-net-fundamentos-desafio-main\trilha-net-fundamentos-desafio-main\DesafioFundamentos\bin\Debug\net461\DesafioFundamentos.exe
+C:\Users\Usuário\Documents\GAZETA SI\CURSOS DIO\trilha-net-fundamentos-desafio-main\trilha-net-fundamentos-desafio-main\DesafioFundamentos\bin\Debug\net461\DesafioFundamentos.pdb
+C:\Users\Usuário\Documents\GAZETA SI\CURSOS DIO\trilha-net-fundamentos-desafio-main\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net461\DesafioFundamentos.exe
+C:\Users\Usuário\Documents\GAZETA SI\CURSOS DIO\trilha-net-fundamentos-desafio-main\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net461\DesafioFundamentos.pdb
